@@ -1,0 +1,2 @@
+javac CelsiusFahrenheit.java
+java CelsiusFahrenheit
